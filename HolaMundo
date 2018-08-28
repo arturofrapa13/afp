@@ -1,0 +1,17 @@
+package javaapplication18;
+
+/**
+ *
+ * @author arturofrapa13
+ */
+public class JavaApplication18 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo!");
+        
+    }
+    
+}
